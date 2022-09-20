@@ -1,12 +1,12 @@
 {
-    "name": "tomcodes/laravel-calendar",
+    "name": "davcpas1234/laravel-calendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "type": "package",
     "authors": [
         {
-            "name": "tomcodes",
-            "email": "tomcodes@users.noreply.github.com"
+            "name": "David Passmore",
+            "email": "david.passmore@verscreative.co.uk"
         }
     ],
     "require": {
